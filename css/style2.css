@@ -1,0 +1,483 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.main{
+    width: 1400px;
+    height: 45px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+.main-one{
+    width: 10%;
+    height: 45px;
+    background-color: #313132;
+    float: left;
+    text-align: center;
+}
+.main-two{
+    width: 80%;
+    height: 45px;
+    background-color: #313132;
+    float: left;
+    text-align: center;
+}
+.main-two img{
+    width: 15px;
+    margin-top: 7px;
+}
+.main-two a{
+    padding: 0 20px;
+    color: #C9CCD5;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+.main-two a:hover{
+    color: white;
+}
+.main-three{
+    width: 10%;
+    height: 45px;
+    background-color: #313132;
+    float: left;
+}
+.add{
+    width: 1400px;
+    height: 72px;
+    margin: 0 auto;
+}
+.add-one{
+    width: 20%;
+    height: 60px;
+    background-color: #f5f5f7;
+    float: left;
+}
+.add-two{
+    width: 60%;
+    height: 60px;
+    background-color: #f5f5f7;
+    float: left;
+    text-align: center;
+}
+.uni{
+    width: 120px;
+    margin-top: 10px;
+    padding: 0 20px;
+}
+.arrow{
+    width: 8px;
+}
+.add-two a{
+    color: #3a87d6;
+}
+.add-two a:hover{
+    text-decoration: underline;
+}
+.add-three{
+    width: 20%;
+    height: 60px;
+    background-color: #f5f5f7;
+    float: left;
+}
+.banner1{
+    width: 1400px;
+    height: 600px;
+    background-image: url(../images/apple2\ \(2\).jpg);
+    margin: 0 auto;
+    text-align: center;
+}
+.banner1 h2{
+    font-size: 60px;
+    padding: 40px 0 10px 0;
+}
+.banner1 p{
+    font-size: 30px;
+    padding: 0 0 10px 0;
+}
+.banner1 a{
+    font-size: 20px;
+    color: #086bce;
+    padding: 2px 15px 0 12px;
+}
+.banner1 a:hover{
+    text-decoration: underline;
+}
+.banner2{
+    width: 1400px;
+    height: 600px;
+    background-image: url(../images/apple2\ \(1\).jpg);
+    margin: 0 auto;
+    text-align: center;
+}
+.banner2 img{
+    width: 80px;
+    padding-top: 50px;
+}
+.banner2 span{
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-left: -25px;
+
+    
+}
+.moto{
+    font-size: 30px;
+    padding-top: 3px;
+}
+.series{
+    font-size: 20px;
+    color: #cc2127;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.banner2 a{
+    font-size: 20px;
+    color: #086bce;
+    padding: 10px 15px 0 12px;
+}
+.banner2 a:hover{
+    text-decoration: underline;
+}
+.banner3{
+    width: 1400px;
+    height: 600px;
+    background-image: url(../images/apple\ \(2\).jpg);
+    margin: 0 auto;
+    text-align: center;
+}
+.banner3 h2{
+    font-size: 60px;
+    padding: 40px 0 10px 0;
+}
+.banner3 span{
+    font-style: italic;
+    color: #ca2166;
+}
+.ban3{
+    font-size: 28px;
+    padding: 0 0 10px 0;
+}
+.banner3 a{
+    font-size: 20px;
+    color: #086bce;
+    padding: 2px 15px 0 12px;
+}
+.banner3 a:hover{
+    text-decoration: underline;
+}
+.pro{
+    width: 1400px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.pro-one{
+    width: 50%;
+    height: 590px;
+    background-image: url(../images/apple.jpg);
+    float: left;
+    padding: 35px 0 0 0;
+}
+.pro-one h2{
+    font-size: 50px;
+}
+.pro-one img{
+    width: 35px;
+    padding: 0 0 0 15px;
+}
+.chip{
+    font-size: 22px;
+    margin-top: 10px;
+}
+.relese{
+    margin-top: 10px;
+    color: gray;
+}
+.pro-one a{
+    margin-top: 15px;
+    padding-left:  10px;
+    color: #3a87d6;
+    font-size: 16px;
+}
+.pro-one a:hover{
+    text-decoration: underline;
+}
+.pro-two{
+    width: 50%;    
+    height: 590px;
+    background-image: url(../images/apple2.jpg);
+    float: left;
+    padding: 40px 0 0 0;
+}
+.pro-two h2{
+    font-size: 50px;
+}
+.pro-two img{
+    width: 35px;
+    padding: 0 0 0 15px;
+}
+.chip{
+    font-size: 22px;
+    margin-top: 10px;
+}
+.relese{
+    margin-top: 10px;
+    color: gray;
+}
+.pro-two a{
+    margin-top: 15px;
+    padding-left:  10px;
+    color: #3a87d6;
+    font-size: 16px;
+}
+.pro-two a:hover{
+    text-decoration: underline;
+}
+.pro-one-one{
+    width: 50%;
+    height: 500px;
+    background-image: url(../images/apple3.jpg);
+    float: left;
+    padding: 70px 0 0 0;
+}
+.pro-one-one h2{
+    font-size: 50px;
+    color: white;
+}
+.pro-one-one img{
+    width: 35px;
+    padding: 0 0 0 15px;
+}
+.chip1{
+    font-size: 22px;
+    margin-top: 10px;
+    color: white;
+}
+.relese{
+    margin-top: 10px;
+    color: gray;
+}
+.pro-one-one a{
+    margin-top: 20px;
+    padding-left:  10px;
+    color: #3a87d6;
+    font-size: 16px;
+}
+.pro-one-one a:hover{
+    text-decoration: underline;
+}
+.pro-two-two{
+    width: 50%;    
+    height: 535px;
+    background-image: url(../images/apple\ \(3\).jpg);
+    float: left;
+    padding: 35px 0 0 0;
+}
+.pro-two-two h2{
+    font-size: 45px;
+    color: white;
+}
+.ipad-logo{
+    width: 90px;
+    margin-left: -10px;
+}
+.relese2{
+    font-size: 20px;
+    margin-top: 10px;
+    color: white
+}
+.pro-two-two a{
+    margin-top: 15px;
+    padding-left:  10px;
+    color: #3a87d6;
+    font-size: 16px;
+}
+.pro-two-two a:hover{
+    text-decoration: underline;
+}
+.pro-one-one-one{
+    width: 50%;
+    height: 500px;
+    background-image: url(../images/apple\ \(7\).jpg);
+    float: left;
+    padding: 70px 0 0 0;
+}
+.pro-one-one-one h2{
+    font-size: 50px;
+    
+}
+.card-logo{
+    width: 70px;
+}
+.pro-one-one-one p{
+    font-size: 20px;
+    color: #1B2430;
+    margin-top: 10px;
+}
+
+.pro-one-one-one a{
+    margin-top: 20px;
+    padding-left:  25px;
+    color: #3a87d6;
+    font-size: 16px;
+}
+.pro-one-one-one a:hover{
+    text-decoration: underline;
+}
+.pro-two-two-two{
+    width: 50%;    
+    height: 535px;
+    background-image: url(../images/apple\ \(8\).jpg);
+    float: left;
+    padding: 38px 0 0 0;
+}
+.pro-two-two-two h2{
+    font-size: 45px;
+    color: white;
+}
+.card-logo-two{
+    width: 40px;
+    margin-left: -10px;
+}
+.relese2{
+    font-size: 20px;
+    margin-top: 10px;
+    color: white
+}
+.pro-two-two-two a{
+    margin-top: 20px;
+    padding-left:  25px;
+    color: #9df002;
+    font-size: 16px;
+}
+.katy-p{
+    width: 10px;
+}
+.pro-two-two-two a:hover{
+    text-decoration: underline;
+}
+.slide{
+    width: 1400px;
+    height: 400px;
+    margin: 0 auto;
+}
+.slider img{
+    width: 600px;
+    height: 400px; 
+}
+.footer{
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #f5f5f7;
+    font-size: 13px;
+    padding-top: 20px;
+    color: gray;
+}
+.footer-one{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.footer-two{
+   width: 70%; 
+   height: 100%;
+   float: left;
+   border-bottom: 1px solid gray;
+}
+.footer-two a{
+    color: black;
+}
+.footer-two a:hover{
+    text-decoration: underline;
+}
+.footer-three{
+    width: 15%;
+    height: 100%;
+    float: left; 
+}
+.service{
+    width: 1400px;
+    height: 450px;
+    background-color: #f5f5f7;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.service ul{
+    list-style: none;
+}
+.service a{
+    color: gray;
+    font-size: 12px;
+    padding-top: 12px;
+}
+.service h4{
+    font-size: 13px;
+    padding-top: 14px;
+}
+.service a:hover{
+    text-decoration: underline;
+}
+.service-one{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.service-two{
+    width: 14%;
+    height: 100%;
+    float: left;
+}
+.service-three{
+    width: 14%;
+    height: 100%;
+    float: left;
+}
+.service-four{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.service-five{
+    width: 14%;
+    height: 100%;
+    float: left;
+}
+.service-six{
+    width: 14%;
+    height: 100%;
+    float: left;
+}
+.service-seven{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.last-footer{
+    width: 1400px;
+    height: 60px;
+    background-color: #f5f5f7;
+    margin: 0 auto;
+}
+.last-footer-one{
+    width: 15%;
+    height: 100%;
+    background: #000;
+
+}
+.last-footer-two{
+    width: 70%;
+    height: 100%;
+    background-color: green;
+    float: left;
+}
+.last-footer-three{
+    width: 15%;
+    height: 100%;
+    background-color: red;
+    float: left;
+}
